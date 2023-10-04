@@ -1,0 +1,35 @@
+name: rlpku
+channels:
+  - defaults
+dependencies:
+  - ca-certificates=2023.08.22=haa95532_0
+  - openssl=1.1.1w=h2bbff1b_0
+  - pip=23.2.1=py38haa95532_0
+  - python=3.8.13=h6244533_1
+  - setuptools=68.0.0=py38haa95532_0
+  - sqlite=3.41.2=h2bbff1b_0
+  - vc=14.2=h21ff451_1
+  - vs2015_runtime=14.27.29016=h5e58377_2
+  - wheel=0.41.2=py38haa95532_0
+  - pip:
+    - box2d==2.3.10
+    - cloudpickle==2.2.1
+    - contourpy==1.1.1
+    - cycler==0.12.0
+    - fonttools==4.43.0
+    - gym==0.24.1
+    - gym-notices==0.0.8
+    - importlib-metadata==6.8.0
+    - importlib-resources==6.1.0
+    - kiwisolver==1.4.5
+    - matplotlib==3.7.3
+    - numpy==1.23.0
+    - packaging==23.2
+    - pillow==10.0.1
+    - pygame==2.1.0
+    - pyparsing==3.1.1
+    - python-dateutil==2.8.2
+    - six==1.16.0
+    - zipp==3.17.0
+prefix: E:\Anaconda3\envs\rlpku
+
